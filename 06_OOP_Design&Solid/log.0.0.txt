@@ -1,0 +1,6 @@
+﻿июл. 25, 2023 17:40:13 PM dip1.Main main
+INFO: Method main in model package started
+июл. 25, 2023 17:45:49 PM dip1.Main main
+INFO: Method main in model package started
+июл. 26, 2023 16:50:12 AM dip1.Main main
+INFO: Method main in model package started
